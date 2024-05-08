@@ -1,2 +1,2 @@
 # async-view
-creating a async-view with django
+creating an async view with django
